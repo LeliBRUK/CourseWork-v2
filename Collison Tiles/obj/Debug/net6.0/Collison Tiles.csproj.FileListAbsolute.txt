@@ -1,0 +1,147 @@
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Collison Tiles.exe
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Collison Tiles.deps.json
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Collison Tiles.runtimeconfig.json
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Collison Tiles.dll
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Collison Tiles.pdb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\Collison Tiles.csproj.AssemblyReference.cache
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\Collison Tiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\Collison Tiles.AssemblyInfoInputs.cache
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\Collison Tiles.AssemblyInfo.cs
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\Collison Tiles.csproj.CoreCompileInputs.cache
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\Collison Tiles.csproj.CopyComplete
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\Collison Tiles.dll
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\refint\Collison Tiles.dll
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\Collison Tiles.pdb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\Collison Tiles.genruntimeconfig.cache
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\obj\Debug\net6.0\ref\Collison Tiles.dll
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile1.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile2.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile3.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Sprites\Knight_Blue.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Sprites\Thief_Red.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Weapons\Spikes.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Knight Spikes.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Weapons\Shuriken.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile4.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile5.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile6.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile7.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Sprites\Knight_Red.xnb
+C:\Users\ghost\source\repos\Collison Tiles\Collison Tiles\bin\Debug\net6.0\Content\Sprites\Thief_Blue.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile1.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile2.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile3.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile4.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile5.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile6.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Collision Tiles\Tile7.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Knight Spikes.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Sprites\Knight_Blue.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Sprites\Knight_Red.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Sprites\Thief_Blue.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Sprites\Thief_Red.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Weapons\Shuriken.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\Weapons\Spikes.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Collison Tiles.exe
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Collison Tiles.deps.json
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Collison Tiles.runtimeconfig.json
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Collison Tiles.dll
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Collison Tiles.pdb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\Collison Tiles.csproj.AssemblyReference.cache
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\Collison Tiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\Collison Tiles.AssemblyInfoInputs.cache
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\Collison Tiles.AssemblyInfo.cs
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\Collison Tiles.csproj.CoreCompileInputs.cache
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\Collison Tiles.csproj.CopyComplete
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\Collison Tiles.dll
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\refint\Collison Tiles.dll
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\Collison Tiles.pdb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\Collison Tiles.genruntimeconfig.cache
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\obj\Debug\net6.0\ref\Collison Tiles.dll
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Attack 1.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Attack 2.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Attack 3.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Dead.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Defend.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Hurt.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Idle.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Jump.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Protect.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Run+Attack.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Run.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Walk.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Attack_1.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Attack_2.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Dart.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Dead.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Disguise.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Hurt.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Idle.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Jump.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Run.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Shot.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Ninja\Walk.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Attack 1.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Attack 2.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Attack 3.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Dead.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Defend.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Hurt.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Idle.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Jump.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Protect.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Run+Attack.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Run.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Blue\Walk.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Attack 1.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Attack 2.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Attack 3.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Dead.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Defend.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Hurt.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Idle.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Jump.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Protect.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Run+Attack.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Run.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Knight\Red\Walk.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Attack_1.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Attack_2.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Dart.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Dead.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Disguise.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Hurt.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Idle.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Jump.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Run.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Shot.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Blue\Walk.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Attack_1.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Attack_2.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Dart.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Dead.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Disguise.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Hurt.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Idle.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Jump.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Run.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Shot.xnb
+D:\University\Helping people\! Alex\alex work\Year 1\MonoGame\CourseWork v2\Collison Tiles\bin\Debug\net6.0\Content\SpriteSheets\Thief\Red\Walk.xnb
