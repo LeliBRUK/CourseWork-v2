@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Idle.png</SourceFile>
+  <SourceFile>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Idle.png</SourceFile>
   <SourceTime>2023-05-08T14:37:54.4594517+01:00</SourceTime>
-  <DestFile>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/bin/DesktopGL/Content/SpriteSheets/Knight/Blue/Idle.xnb</DestFile>
-  <DestTime>2023-05-08T16:33:13.4886035+01:00</DestTime>
+  <DestFile>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/bin/DesktopGL/Content/SpriteSheets/Knight/Blue/Idle.xnb</DestFile>
+  <DestTime>2023-05-10T16:15:34.7758018+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

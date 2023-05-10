@@ -36,6 +36,15 @@
         "${workspaceFolder}/Collison Tiles/Collison Tiles.csproj"
       ],
       "problemMatcher": "$msCompile"
+    },
+    {
+      "type": "msbuild",
+      "problemMatcher": [
+        "$msCompile"
+      ],
+      "group": "clean",
+      "label": "Clean: solution",
+      "detail": "Clean the Collison Tiles.sln solution using dotnet clean"
     }
   ]
 }
