@@ -1,16 +1,7 @@
 ﻿using Microsoft.Xna.Framework.Graphics;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
-using System.Diagnostics;
-using System.CodeDom.Compiler;
-using System.Reflection.Metadata;
 using Microsoft.Xna.Framework.Input;
-using System.Runtime.CompilerServices;
 
 namespace Collison_Tiles
 {
@@ -29,7 +20,7 @@ namespace Collison_Tiles
       WalkAnimation = new NewAnimations(texture, texture.Width, texture.Height, 8);
 
       texture = Content.Load<Texture2D>("SpriteSheets/Knight/Blue/Idle");
-      IdleAnimation = new NewAnimations(texture, texture.Width, texture.Height, 1);
+      IdleAnimation = new NewAnimations(texture, texture.Width, texture.Height, 4);
 
       texture = Content.Load<Texture2D>("SpriteSheets/Knight/Blue/Jump");
       JumpAnimation = new NewAnimations(texture, texture.Width, texture.Height, 6);
@@ -79,6 +70,7 @@ namespace Collison_Tiles
         velocity.Y = -11f;   //9==2 11==3 tiles worth of jump
         HasJumped = true;
         currentAnimation = JumpAnimation;
+        jumpSound.SOUND_INSTANCE.Play();
       }
     }
   }

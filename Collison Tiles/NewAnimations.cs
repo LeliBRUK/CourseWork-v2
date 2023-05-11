@@ -23,6 +23,9 @@ namespace Collison_Tiles
     private float elapsed;
     private List<Rectangle> frames = new List<Rectangle>();
 
+    private float untilFinished;
+    private float totalElapsedTime;
+
     public NewAnimations(Texture2D texture, int width, int height, int frameCount, float scale = 1.0f, float frameTime = 100f)
     {
       this.texture = texture;
@@ -31,6 +34,7 @@ namespace Collison_Tiles
       frameHeight = height;
       this.frameCount = frameCount;
       this.frameTime = frameTime;
+      untilFinished = frameTime * frameCount;
 
       srcRect = new Rectangle(currentFrame * frameWidth, 0, frameWidth, frameHeight);
 
@@ -60,6 +64,19 @@ namespace Collison_Tiles
         spriteBatch.Draw(texture, position, srcRect, Color.White);
       else
         spriteBatch.Draw(texture, position, srcRect, Color.White, 0.0f, new Vector2(0, 0), 1.0f, SpriteEffects.FlipHorizontally, 1.0f);
+    }
+
+    public Boolean Completed(GameTime gameTime)
+    {
+      totalElapsedTime += (float)gameTime.ElapsedGameTime.TotalMilliseconds;
+
+      if (totalElapsedTime >= untilFinished)
+      {
+        totalElapsedTime = 0;
+        return true;
+      }
+
+      return false;
     }
   }
 }

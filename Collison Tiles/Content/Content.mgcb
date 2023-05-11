@@ -13,6 +13,48 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin audio/duelingBackground.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:audio/duelingBackground.mp3
+
+#begin audio/generalBackground.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:audio/generalBackground.mp3
+
+#begin audio/knightAttack.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/knightAttack.mp3
+
+#begin audio/knightJump.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/knightJump.mp3
+
+#begin audio/shuriken.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/shuriken.mp3
+
+#begin audio/spike.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/spike.mp3
+
+#begin audio/thiefJump.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:audio/thiefJump.mp3
+
 #begin Collision Tiles/Tile1.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -157,7 +199,7 @@
 /processorParam:TextureFormat=Color
 /build:Sprites/Thief_Red.png
 
-#begin SpriteSheets/Knight/Blue/Attack 1.png
+#begin SpriteSheets/Knight/Blue/Attack.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -167,9 +209,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Blue/Attack 1.png
+/build:SpriteSheets/Knight/Blue/Attack.png
 
-#begin SpriteSheets/Knight/Blue/Attack 2.png
+#begin SpriteSheets/Knight/Blue/Death.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -179,31 +221,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Blue/Attack 2.png
-
-#begin SpriteSheets/Knight/Blue/Attack 3.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Blue/Attack 3.png
-
-#begin SpriteSheets/Knight/Blue/Dead.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Blue/Dead.png
+/build:SpriteSheets/Knight/Blue/Death.png
 
 #begin SpriteSheets/Knight/Blue/Defend.png
 /importer:TextureImporter
@@ -216,18 +234,6 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:SpriteSheets/Knight/Blue/Defend.png
-
-#begin SpriteSheets/Knight/Blue/Hurt.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Blue/Hurt.png
 
 #begin SpriteSheets/Knight/Blue/Idle.png
 /importer:TextureImporter
@@ -253,42 +259,6 @@
 /processorParam:TextureFormat=Color
 /build:SpriteSheets/Knight/Blue/Jump.png
 
-#begin SpriteSheets/Knight/Blue/Protect.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Blue/Protect.png
-
-#begin SpriteSheets/Knight/Blue/Run.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Blue/Run.png
-
-#begin SpriteSheets/Knight/Blue/Run+Attack.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Blue/Run+Attack.png
-
 #begin SpriteSheets/Knight/Blue/Walk.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -301,7 +271,7 @@
 /processorParam:TextureFormat=Color
 /build:SpriteSheets/Knight/Blue/Walk.png
 
-#begin SpriteSheets/Knight/Red/Attack 1.png
+#begin SpriteSheets/Knight/Red/Attack.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -311,9 +281,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Red/Attack 1.png
+/build:SpriteSheets/Knight/Red/Attack.png
 
-#begin SpriteSheets/Knight/Red/Attack 2.png
+#begin SpriteSheets/Knight/Red/Death.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -323,31 +293,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Red/Attack 2.png
-
-#begin SpriteSheets/Knight/Red/Attack 3.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Red/Attack 3.png
-
-#begin SpriteSheets/Knight/Red/Dead.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Red/Dead.png
+/build:SpriteSheets/Knight/Red/Death.png
 
 #begin SpriteSheets/Knight/Red/Defend.png
 /importer:TextureImporter
@@ -360,18 +306,6 @@
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
 /build:SpriteSheets/Knight/Red/Defend.png
-
-#begin SpriteSheets/Knight/Red/Hurt.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Red/Hurt.png
 
 #begin SpriteSheets/Knight/Red/Idle.png
 /importer:TextureImporter
@@ -397,42 +331,6 @@
 /processorParam:TextureFormat=Color
 /build:SpriteSheets/Knight/Red/Jump.png
 
-#begin SpriteSheets/Knight/Red/Protect.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Red/Protect.png
-
-#begin SpriteSheets/Knight/Red/Run.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Red/Run.png
-
-#begin SpriteSheets/Knight/Red/Run+Attack.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Knight/Red/Run+Attack.png
-
 #begin SpriteSheets/Knight/Red/Walk.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -445,7 +343,7 @@
 /processorParam:TextureFormat=Color
 /build:SpriteSheets/Knight/Red/Walk.png
 
-#begin SpriteSheets/Thief/Blue/Attack_1.png
+#begin SpriteSheets/Thief/Blue/attack.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -455,9 +353,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Attack_1.png
+/build:SpriteSheets/Thief/Blue/attack.png
 
-#begin SpriteSheets/Thief/Blue/Attack_2.png
+#begin SpriteSheets/Thief/Blue/death.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -467,9 +365,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Attack_2.png
+/build:SpriteSheets/Thief/Blue/death.png
 
-#begin SpriteSheets/Thief/Blue/Dart.png
+#begin SpriteSheets/Thief/Blue/idle.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -479,9 +377,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Dart.png
+/build:SpriteSheets/Thief/Blue/idle.png
 
-#begin SpriteSheets/Thief/Blue/Dead.png
+#begin SpriteSheets/Thief/Blue/jump.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -491,9 +389,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Dead.png
+/build:SpriteSheets/Thief/Blue/jump.png
 
-#begin SpriteSheets/Thief/Blue/Disguise.png
+#begin SpriteSheets/Thief/Blue/shuriken.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -503,9 +401,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Disguise.png
+/build:SpriteSheets/Thief/Blue/shuriken.png
 
-#begin SpriteSheets/Thief/Blue/Hurt.png
+#begin SpriteSheets/Thief/Blue/walk.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -515,9 +413,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Hurt.png
+/build:SpriteSheets/Thief/Blue/walk.png
 
-#begin SpriteSheets/Thief/Blue/Idle.png
+#begin SpriteSheets/Thief/Red/attack.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -527,9 +425,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Idle.png
+/build:SpriteSheets/Thief/Red/attack.png
 
-#begin SpriteSheets/Thief/Blue/Jump.png
+#begin SpriteSheets/Thief/Red/death.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -539,9 +437,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Jump.png
+/build:SpriteSheets/Thief/Red/death.png
 
-#begin SpriteSheets/Thief/Blue/Run.png
+#begin SpriteSheets/Thief/Red/idle.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -551,9 +449,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Run.png
+/build:SpriteSheets/Thief/Red/idle.png
 
-#begin SpriteSheets/Thief/Blue/Shot.png
+#begin SpriteSheets/Thief/Red/jump.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -563,9 +461,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Shot.png
+/build:SpriteSheets/Thief/Red/jump.png
 
-#begin SpriteSheets/Thief/Blue/Walk.png
+#begin SpriteSheets/Thief/Red/shuriken.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -575,9 +473,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Blue/Walk.png
+/build:SpriteSheets/Thief/Red/shuriken.png
 
-#begin SpriteSheets/Thief/Red/Attack_1.png
+#begin SpriteSheets/Thief/Red/walk.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -587,127 +485,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Attack_1.png
-
-#begin SpriteSheets/Thief/Red/Attack_2.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Attack_2.png
-
-#begin SpriteSheets/Thief/Red/Dart.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Dart.png
-
-#begin SpriteSheets/Thief/Red/Dead.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Dead.png
-
-#begin SpriteSheets/Thief/Red/Disguise.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Disguise.png
-
-#begin SpriteSheets/Thief/Red/Hurt.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Hurt.png
-
-#begin SpriteSheets/Thief/Red/Idle.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Idle.png
-
-#begin SpriteSheets/Thief/Red/Jump.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Jump.png
-
-#begin SpriteSheets/Thief/Red/Run.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Run.png
-
-#begin SpriteSheets/Thief/Red/Shot.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Shot.png
-
-#begin SpriteSheets/Thief/Red/Walk.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=False
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:SpriteSheets/Thief/Red/Walk.png
+/build:SpriteSheets/Thief/Red/walk.png
 
 #begin Weapons/Shuriken.png
 /importer:TextureImporter

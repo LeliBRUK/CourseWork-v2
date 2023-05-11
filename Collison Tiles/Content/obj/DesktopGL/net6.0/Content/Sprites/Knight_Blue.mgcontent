@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Sprites/Knight_Blue.png</SourceFile>
+  <SourceFile>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Sprites/Knight_Blue.png</SourceFile>
   <SourceTime>2023-04-08T19:04:20+01:00</SourceTime>
-  <DestFile>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/bin/DesktopGL/Content/Sprites/Knight_Blue.xnb</DestFile>
-  <DestTime>2023-05-10T16:15:34.6980096+01:00</DestTime>
+  <DestFile>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/bin/DesktopGL/Content/Sprites/Knight_Blue.xnb</DestFile>
+  <DestTime>2023-05-05T14:32:08.7086508+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
