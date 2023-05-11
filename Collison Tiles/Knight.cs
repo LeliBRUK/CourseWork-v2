@@ -1,27 +1,21 @@
 using Microsoft.Xna.Framework.Graphics;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
-using System.Diagnostics;
-using System.CodeDom.Compiler;
-using System.Reflection.Metadata;
-using Microsoft.Xna.Framework.Input;
-using System.Runtime.CompilerServices;
+using Microsoft.Xna.Framework.Audio;
 
 namespace Collison_Tiles
 {
   internal class Knight
   {
-    // old knight texture
-    // protected Texture2D knightTexture;
+    public static Sound spikeSound;
+    protected static Sound jumpSound;
 
     protected NewAnimations IdleAnimation;
     protected NewAnimations WalkAnimation;
     protected NewAnimations JumpAnimation;
+
+    protected NewAnimations currentAnimation;
 
     // todo add these maybe
     // protected NewAnimations AttackAnimation;
@@ -29,27 +23,33 @@ namespace Collison_Tiles
     // protected NewAnimations ProtectAnimation;
     // protected NewAnimations DeadAnimation;
 
-    protected NewAnimations currentAnimation;
-
     protected int direction = 1;
 
     protected Vector2 position = new Vector2(576, 764);
     protected Vector2 velocity;
-    protected bool HasJumped = false;
-
     private Rectangle rectangle;
+
+    protected bool HasJumped;
 
     //Not used yet
     private int Health = 5;
 
-    public Knight() { }
+    public Knight() {}
     public Vector2 Position { get { return position; } }
 
     public virtual void Load(ContentManager Content)
     {
+      SoundEffect soundEffect;
+
+      soundEffect = Content.Load<SoundEffect>("audio/knightJump");
+      jumpSound = new Sound(soundEffect);
+
+      soundEffect = Content.Load<SoundEffect>("audio/spike");
+      spikeSound = new Sound(soundEffect);
+
       currentAnimation = IdleAnimation;
     }
-    
+
     protected virtual void Input(GameTime gameTime)
     {
       currentAnimation = IdleAnimation;

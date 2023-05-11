@@ -62,8 +62,8 @@ namespace Collison_Tiles
             Animation SpikesAnimation = new Animation();
 
             SpikesAnimation.Initialize(SpikeTexture, p.Position,
-                63,
-                16,
+                SpikeTexture.Width,
+                SpikeTexture.Height,
                 1,
                 30,
                 Color.White,
@@ -86,8 +86,8 @@ namespace Collison_Tiles
             Animation SpikesAnimation = new Animation();
 
             SpikesAnimation.Initialize(SpikeTexture, p.Position,
-                63,
-                16,
+                SpikeTexture.Width,
+                SpikeTexture.Height,
                 1,
                 30,
                 Color.White,
@@ -122,6 +122,7 @@ namespace Collison_Tiles
 
             if (currentKeyboardState.IsKeyDown(Keys.S) && previousKeyboardState.IsKeyUp(Keys.S) && c_ammo > 0)
             {
+                Knight.spikeSound.SOUND_INSTANCE.Play();
                 ActivateFallingSpike(gameTime, p);
                 c_ammo--;
             }
@@ -153,6 +154,7 @@ namespace Collison_Tiles
 
             if (currentKeyboardState.IsKeyDown(Keys.Down) && previousKeyboardState.IsKeyUp(Keys.Down) && c_ammo > 0)
             {
+                Knight.spikeSound.SOUND_INSTANCE.Play();
                 ActivateFallingSpike2(gameTime, p);
                 c_ammo--;
             }

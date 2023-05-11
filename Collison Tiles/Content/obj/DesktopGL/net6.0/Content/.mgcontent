@@ -4,83 +4,53 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile1.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile2.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile3.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile4.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile5.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile6.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile7.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Knight Spikes.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Sprites/Knight_Blue.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Sprites/Knight_Red.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Sprites/Thief_Blue.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Sprites/Thief_Red.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Attack 1.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Attack 2.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Attack 3.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Dead.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Defend.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Hurt.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Idle.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Jump.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Protect.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Run.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Run+Attack.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Walk.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Attack 1.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Attack 2.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Attack 3.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Dead.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Defend.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Hurt.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Idle.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Jump.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Protect.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Run.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Run+Attack.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Walk.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Attack_1.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Attack_2.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Dart.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Dead.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Disguise.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Hurt.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Idle.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Jump.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Run.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Shot.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/Walk.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Attack_1.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Attack_2.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Dart.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Dead.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Disguise.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Hurt.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Idle.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Jump.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Run.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Shot.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/Walk.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Weapons/Shuriken.png</File>
-    <File>c:/Users/welis/Desktop/CodingGame/CourseWork v2/Collison Tiles/Content/Weapons/Spikes.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/audio/duelingBackground.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/audio/generalBackground.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/audio/knightAttack.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/audio/knightJump.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/audio/shuriken.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/audio/spike.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/audio/thiefJump.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile1.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile2.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile3.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile4.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile5.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile6.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Collision Tiles/Tile7.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Knight Spikes.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Sprites/Knight_Blue.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Sprites/Knight_Red.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Sprites/Thief_Blue.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Sprites/Thief_Red.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Attack.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Death.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Defend.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Idle.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Jump.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Blue/Walk.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Attack.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Death.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Defend.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Idle.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Jump.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Knight/Red/Walk.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/attack.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/death.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/idle.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/jump.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/shuriken.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Blue/walk.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/attack.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/death.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/idle.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/jump.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/shuriken.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/SpriteSheets/Thief/Red/walk.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Weapons/Shuriken.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/CourseWork v2/Collison Tiles/Content/Weapons/Spikes.png</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

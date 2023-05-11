@@ -7,7 +7,7 @@ namespace Collison_Tiles
 {
   internal class ThiefBlue : Thief
   {
-    public ThiefBlue() { }
+    public ThiefBlue() {}
 
     public override void Load(ContentManager Content)
     {
@@ -16,14 +16,17 @@ namespace Collison_Tiles
 
       Texture2D texture;
 
-      texture = Content.Load<Texture2D>("SpriteSheets/Thief/Blue/Walk");
-      WalkAnimation = new NewAnimations(texture, texture.Width, texture.Height, 8);
+      texture = Content.Load<Texture2D>("SpriteSheets/Thief/Blue/walk");
+      walkAnimation = new NewAnimations(texture, texture.Width, texture.Height, 8);
 
-      texture = Content.Load<Texture2D>("SpriteSheets/Thief/Blue/Idle");
-      IdleAnimation = new NewAnimations(texture, texture.Width, texture.Height, 6);
+      texture = Content.Load<Texture2D>("SpriteSheets/Thief/Blue/idle");
+      idleAnimation = new NewAnimations(texture, texture.Width, texture.Height, 6);
 
-      texture = Content.Load<Texture2D>("SpriteSheets/Thief/Blue/Jump");
-      JumpAnimation = new NewAnimations(texture, texture.Width, texture.Height, 6);
+      texture = Content.Load<Texture2D>("SpriteSheets/Thief/Blue/jump");
+      jumpAnimation = new NewAnimations(texture, texture.Width, texture.Height, 8);
+
+      texture = Content.Load<Texture2D>("SpriteSheets/Thief/Blue/shuriken");
+      throwingAnimation = new NewAnimations(texture, texture.Width, texture.Height, 6, 1.0f, 30f);
 
       base.Load(Content);
     }
@@ -34,20 +37,20 @@ namespace Collison_Tiles
       {
         velocity.X = -4f;
 
-        currentAnimation = WalkAnimation;
+        currentAnimation = walkAnimation;
         direction = -1;
       }
       else if (Keyboard.GetState().IsKeyDown(Keys.D))
       {
         velocity.X = +4f;
         
-        currentAnimation = WalkAnimation;
+        currentAnimation = walkAnimation;
         direction = 1;
       }
       else
       {
-        if (!HasJumped)
-          currentAnimation = IdleAnimation;
+        if (!HasJumped && !throwing)
+          currentAnimation = idleAnimation;
         velocity.X = 0f;
       }
 
@@ -56,7 +59,8 @@ namespace Collison_Tiles
         position.Y -= 1f;
         velocity.Y = -11f;
         HasJumped = true;
-        // currentAnimation = JumpAnimation;
+        jumpSound.SOUND_INSTANCE.Play();
+        currentAnimation = jumpAnimation;
       }
 
       if (currentKeyboardState.IsKeyDown(Keys.Q) && previousKeyboardState.IsKeyUp(Keys.Q) &&
@@ -65,7 +69,14 @@ namespace Collison_Tiles
         position.Y -= 1f;
         velocity.Y = -9f;
         HasDoubleJumped = true;
+        jumpSound.SOUND_INSTANCE.Play();
         CurrentDoubleJump--;
+      }
+
+      if (Keyboard.GetState().IsKeyDown(Keys.S))
+      {
+        throwing = true;
+        currentAnimation = throwingAnimation;
       }
     }
   }

@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\welis\\Desktop\\CodingGame\\CourseWork v2\\Collison Tiles\\Collison Tiles.csproj": {}
+    "D:\\University\\Helping people\\! Alex\\alex work\\Year 1\\MonoGame\\CourseWork v2\\Collison Tiles\\Collison Tiles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\welis\\Desktop\\CodingGame\\CourseWork v2\\Collison Tiles\\Collison Tiles.csproj": {
+    "D:\\University\\Helping people\\! Alex\\alex work\\Year 1\\MonoGame\\CourseWork v2\\Collison Tiles\\Collison Tiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\welis\\Desktop\\CodingGame\\CourseWork v2\\Collison Tiles\\Collison Tiles.csproj",
+        "projectUniqueName": "D:\\University\\Helping people\\! Alex\\alex work\\Year 1\\MonoGame\\CourseWork v2\\Collison Tiles\\Collison Tiles.csproj",
         "projectName": "Collison Tiles",
-        "projectPath": "C:\\Users\\welis\\Desktop\\CodingGame\\CourseWork v2\\Collison Tiles\\Collison Tiles.csproj",
-        "packagesPath": "C:\\Users\\welis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\welis\\Desktop\\CodingGame\\CourseWork v2\\Collison Tiles\\obj\\",
+        "projectPath": "D:\\University\\Helping people\\! Alex\\alex work\\Year 1\\MonoGame\\CourseWork v2\\Collison Tiles\\Collison Tiles.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\Helping people\\! Alex\\alex work\\Year 1\\MonoGame\\CourseWork v2\\Collison Tiles\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\welis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -71,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

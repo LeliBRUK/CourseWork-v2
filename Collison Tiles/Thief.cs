@@ -3,23 +3,23 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.Xna.Framework.Audio;
 
 namespace Collison_Tiles
 {
   internal class Thief
   {
-    protected Texture2D Thief_B;
+    public static Sound shurikenSound;
+    protected static Sound jumpSound;
 
-    protected NewAnimations IdleAnimation;
-    protected NewAnimations WalkAnimation;
-    protected NewAnimations JumpAnimation;
+    protected NewAnimations idleAnimation;
+    protected NewAnimations walkAnimation;
+    protected NewAnimations jumpAnimation;
+    protected NewAnimations throwingAnimation;
 
     protected NewAnimations currentAnimation;
 
+    protected Boolean throwing;
     protected int direction = 1;
 
     protected Vector2 position = new Vector2(576, 764);
@@ -38,29 +38,31 @@ namespace Collison_Tiles
     protected KeyboardState currentKeyboardState;
     protected KeyboardState previousKeyboardState;
 
-    public bool Left;
-    public Vector2 Position
-    {
-      get { return position; }
-    }
-
-    public Thief() { }
+    public Thief() {}
+    public Vector2 Position { get { return position; } }
 
     public virtual void Load(ContentManager Content)
     {
-      currentAnimation = IdleAnimation;
-      // Thief_B = Content.Load<Texture2D>("Sprites/Thief_Blue");
+      SoundEffect soundEffect;
+
+      soundEffect = Content.Load<SoundEffect>("audio/thiefJump");
+      jumpSound = new Sound(soundEffect);
+
+      soundEffect = Content.Load<SoundEffect>("audio/shuriken");
+      shurikenSound = new Sound(soundEffect);
+
+      currentAnimation = idleAnimation;
     }
 
     protected virtual void Input(GameTime gameTime)
     {
-      currentAnimation = IdleAnimation;
+      currentAnimation = idleAnimation;
     }
 
     public void Update(GameTime gameTime)
     {
       position += velocity;
-      rectangle = new Rectangle((int)position.X, (int)position.Y, currentAnimation.texture.Width, currentAnimation.texture.Height);
+      rectangle = new Rectangle((int)position.X, (int)position.Y, currentAnimation.frameWidth, currentAnimation.frameHeight);
       currentAnimation.Update(gameTime);
 
       previousKeyboardState = currentKeyboardState;
@@ -80,6 +82,10 @@ namespace Collison_Tiles
 
       if (velocity.Y < 10)
         velocity.Y += 0.4f;
+
+      if (throwing)
+        if (currentAnimation.Completed(gameTime))
+          throwing = false;
     }
 
     public void Collision(Rectangle newRectangle, int xOffset, int yOffset)
@@ -93,34 +99,19 @@ namespace Collison_Tiles
       }
 
       if (rectangle.TouchLeftOf(newRectangle))
-      {
         position.X = newRectangle.X - rectangle.Width - 2;
-      }
-      if (rectangle.TouchRightOf(newRectangle))
-      {
-        position.X = newRectangle.X + rectangle.Width + 2;
-      }
-      if (rectangle.TouchBottomOf(newRectangle))
-      {
-        velocity.Y = 1f;
-      }
 
-      if (position.X < 0)
-      {
-        position.X = 0f;
-      }
-      if (position.X > xOffset - rectangle.Width)
-      {
-        position.X = xOffset - rectangle.Width;
-      }
-      if (position.Y < 0)
-      {
-        velocity.Y = 1f;
-      }
-      if (position.Y > yOffset - rectangle.Height)
-      {
-        position.Y = yOffset - rectangle.Height;
-      }
+      if (rectangle.TouchRightOf(newRectangle))
+        position.X = newRectangle.X + newRectangle.Width + 2;
+
+      if (rectangle.TouchBottomOf(newRectangle))
+        velocity.Y = Math.Max(velocity.Y, 1f);
+
+      position.X = MathHelper.Clamp(position.X, 0f, xOffset - rectangle.Width);
+      position.Y = MathHelper.Clamp(position.Y, 0f, yOffset - rectangle.Height);
+
+      if (position.Y >= yOffset - rectangle.Height)
+        velocity.Y = Math.Max(velocity.Y, 1f);
     }
 
     public void Draw(SpriteBatch spriteBatch)
