@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/duelingBackground.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/generalBackground.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/knightAttack.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/knightDeath.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/knightHurt.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/knightJump.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/shuriken.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/spike.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/thiefDeath.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/thiefHurt.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/thiefJump.mp3</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Collision Tiles/Tile1.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Collision Tiles/Tile2.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Collision Tiles/Tile3.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Collision Tiles/Tile4.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Collision Tiles/Tile5.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Collision Tiles/Tile6.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Collision Tiles/Tile7.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Sprites/Knight_Blue.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Sprites/Knight_Red.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Sprites/Thief_Blue.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Sprites/Thief_Red.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Blue/attack.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Blue/death.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Blue/Defend.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Blue/Idle.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Blue/Jump.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Blue/Walk.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Red/attack.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Red/death.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Red/Defend.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Red/Idle.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Red/Jump.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Knight/Red/Walk.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Blue/attack.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Blue/death.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Blue/Idle.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Blue/Jump.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Blue/shuriken.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Blue/Walk.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Red/attack.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Red/death.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Red/Idle.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Red/Jump.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Red/shuriken.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/SpriteSheets/Thief/Red/Walk.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Text/Text 1.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Text/Text 2.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Text/Text 3.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Text/Text 4.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Text/Text 5.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Text/Text 6.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Weapons/Shuriken.png</File>
+    <File>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/Weapons/Spikes.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

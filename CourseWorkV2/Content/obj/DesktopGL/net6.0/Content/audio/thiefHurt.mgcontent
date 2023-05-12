@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/audio/thiefHurt.mp3</SourceFile>
+  <SourceTime>2023-05-12T17:23:52.8357507+01:00</SourceTime>
+  <DestFile>D:/University/Helping people/! Alex/alex work/Year 1/MonoGame/New/CourseWorkV2/Content/bin/DesktopGL/Content/audio/thiefHurt.xnb</DestFile>
+  <DestTime>2023-05-12T17:49:54.7217008+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T12:44:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
