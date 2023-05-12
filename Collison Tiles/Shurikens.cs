@@ -43,7 +43,7 @@ namespace Collison_Tiles
             currentKeyboardState = Keyboard.GetState();
 
                 int i = 10;
-                Position.X += ShurikenSpeed*10;
+                Position.X += ShurikenSpeed*i;
                 Shuriken.Position = Position;
                 Shuriken.Update(gameTime);
           

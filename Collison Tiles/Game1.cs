@@ -37,7 +37,7 @@ namespace Collison_Tiles
         Texture2D ShurikenTexture;
         ShurikenManager Shuriken_R;
         ShurikenManager Shuriken_B;
-        GraphicsDevice details;
+        
 
         int mapswitcher; //switches map generated
         Random random = new Random();
@@ -240,6 +240,10 @@ namespace Collison_Tiles
 
         protected override void Draw(GameTime gameTime)
         {
+
+                
+
+
             if (mapswitcher == 0)
             {
                 GraphicsDevice.Clear(Color.CornflowerBlue);
